@@ -15,4 +15,5 @@
  * What does FAGBL stand for?
   * *"FAGBL" or "FAG ban-list" stands for "Federated Arbitrary Game Ban List"*
 
+### Block known hackers and cheaters.
 ![](https://static1.squarespace.com/static/50ac3f9de4b04170ccad29d9/t/577f95d0440243084a6675d2/1467979232211/Rule+1?format=original)
